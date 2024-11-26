@@ -2,7 +2,8 @@
 
 Hello! I'm a passionate **Nguyen Duc Hieu** with experience in multiple technologies. Below you’ll find a bit more about me, my skills, and the work I do.
 
-![Profile Banner](![image](https://github.com/Hieu-Voco)
+![Profile](![![1700465863772](https://github.com/user-attachments/assets/27d99999-b52c-41b0-8623-e8e011f0b440)
+](https://github.com/Hieu-Voco)
 )  <!-- Replace this URL with your banner image link -->
 
 ## 🔧 Technologies & Tools
